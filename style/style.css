@@ -328,10 +328,10 @@ table tr td
 @font-face {
     font-family: "Yanone_Kaffeesatz";
     font-weight: normal;
-    src: url('Yanone_Kaffeesatz/Yanone_Kaffeesatz-Light.ttf');
+    src: url('Yanone_Kaffeesatz/Yanone_Kaffeesatz-Light.ttf') format('truetype');
 }
 @font-face {
     font-family: "Tangerine";
     font-weight: normal;
-    src: url('Tangerine/Tangerine-Regular.ttf');
+    src: url('Tangerine/Tangerine-Regular.ttf') format('truetype');
 }
